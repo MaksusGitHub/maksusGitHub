@@ -1,5 +1,4 @@
-Привет 👋 Меня зовут Максим
-=======================
+<h1 align="left">Привет 👋 Меня зовут Максим </h1>
 
 * 👨‍💻 Я начинающий веб-разработчик
 * 🎓 Изучаю веб-разработку на курсах Яндекс.Практикум
@@ -24,6 +23,10 @@
 
 ### 🏆Моя статистика
 
-<a href="https://github.com/MaksusGitHub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksusGitHub&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/MaksusGitHub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksusGitHub&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"   alt="Top Languages" /></a>
+  
 <a href="http://www.github.com/MaksusGitHub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksusGitHub&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![codewars](https://www.codewars.com/users/MaksusCodeWars/badges/large)](https://www.codewars.com/users/MaksusCodeWars)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MaksusLeetCode&theme=dark)](https://github.com/MaksusLeetCode/leetcode-stats)
